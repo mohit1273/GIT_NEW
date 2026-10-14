@@ -1,0 +1,157 @@
+#outer {
+    height: 2200px;
+    width: 1250px;
+    background-color: rgb(0, 0, 0);
+}
+
+#up {
+    height: 90px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 4px 4px 0px rgb(195, 194, 194);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+.a1 {
+    height: 45px;
+    width: 75px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    img {
+        height: 35px;
+        width: 50px;
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+}
+
+.a {
+    height: 50px;
+    width: 70px;
+    background-color: rgb(251, 251, 251);
+    float: left;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    padding-top: 5px;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 35px;
+}
+
+
+.b {
+    height: 50px;
+    width: 450px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 20px;
+    background-color: #f5f5f6;
+    border: none;
+    border-radius: 8px;
+}
+
+.b1 {
+    height: 50px;
+    width: 60px;
+    float: left;
+    img {
+    height: 22px;
+    width: 22px;
+    margin-top: 14px;
+    margin-left: 25px;
+    }
+}
+
+
+.b2 {
+    height: 50px;
+    width: 340px;
+    float: left;
+    input {
+    height: 50px;
+    width: 100%;
+    padding-left: 10px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-size: 18px;
+    }
+}
+
+
+.c {
+    height: 50px;
+    width: 55px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 5px;
+    img {
+        height: 30px;
+        width: 30px;
+    }
+}
+
+.up1 {
+    height: 185px;
+    width: 1205px;
+    background-color: rgb(255, 255, 255);
+}
+
+.up1_a {
+    height: 90px;
+    width: 1170px;
+    margin-left: 90px;
+    margin-top: 15px;
+    padding-top: 90px;
+    img {
+        height: 85px;
+        width: 1050px;
+    }
+}
+
+.up2 {
+    height: 300px;
+    width: 1205px;
+    background-color: #fdfdfc;
+}
+
+.up2_a {
+    height: 300px;
+    width: 1170px;
+    margin-left: 20px;
+    img {
+        height: 320px;
+        width: 1170px;
+    }
+}
+
+.up2_1 {
+    height: 280px;
+    width: 1205px;
+    background-color: #ffffff;
+}
+
+.up2_1a {
+    height: 130px;
+    width: 1170px;
+    float: left;
+    background-color: #eea816;
+    margin-left: 20px;
+}
+
+.up2_1b {
+    height: 130px;
+    width: 1170px;
+    float: left;
+    background-color: #eea816;
+    margin-left: 20px;
+}

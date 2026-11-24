@@ -135,3 +135,14 @@
         width: 1170px;
     }
 }
+
+.up3 {
+    height: 100px;
+    width: 1185px;
+    margin-left: 20px;
+    color: gray;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: cursive;
+    background-color: rgb(255, 255, 255);
+}
